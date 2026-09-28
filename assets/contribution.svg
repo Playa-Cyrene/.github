@@ -17,12 +17,12 @@
   
       <text x="32" y="106" class="label">Playa</text>
       <rect x="165" y="90" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="90" width="479.75" height="16" rx="8" fill="#f97316"/>
-      <text x="700" y="106" text-anchor="end" class="value">94.1% · 1380</text>
+      <rect x="165" y="90" width="480.75" height="16" rx="8" fill="#f97316"/>
+      <text x="700" y="106" text-anchor="end" class="value">94.3% · 1430</text>
       <text x="32" y="150" class="label">Community</text>
       <rect x="165" y="134" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="134" width="30.25" height="16" rx="8" fill="#3fb950"/>
-      <text x="700" y="150" text-anchor="end" class="value">5.93% · 87</text>
+      <rect x="165" y="134" width="29.25" height="16" rx="8" fill="#3fb950"/>
+      <text x="700" y="150" text-anchor="end" class="value">5.74% · 87</text>
       <text x="32" y="194" class="label">CyreneBot</text>
       <rect x="165" y="178" width="510" height="16" rx="8" fill="#21262d"/>
       <rect x="165" y="178" width="0.00" height="16" rx="8" fill="#8b5cf6"/>
@@ -30,5 +30,5 @@
 
   <line x1="32" y1="220" x2="728" y2="220" stroke="#21262d"/>
   <text x="32" y="242" class="footer">Top community: @lll69 · @Unknownuserfrommars · @yuxingyuzhong · @LZhWi · @1971687396</text>
-  <text x="728" y="242" text-anchor="end" class="footer">Total: 1467 · 2026-09-27 09:16:51 UTC</text>
+  <text x="728" y="242" text-anchor="end" class="footer">Total: 1517 · 2026-09-28 09:48:33 UTC</text>
 </svg>
