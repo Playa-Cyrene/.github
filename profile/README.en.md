@@ -89,6 +89,12 @@ The source repository for the official site [playaagentcyrene.online](https://pl
 
 These technologies make up the primary engineering stack used across the Cyrene ecosystem.
 
+Below is the Top 3 of language byte share aggregated from the GitHub API across the organization (forks and archived repos excluded):
+
+<p align="center">
+  <img src="../assets/languages.svg" alt="Cyrene ecosystem language share · Top 3" width="760" />
+</p>
+
 ### 🤖 AI-Assisted Development
 
 ![GPT](https://img.shields.io/badge/GPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
