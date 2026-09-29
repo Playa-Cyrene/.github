@@ -91,7 +91,7 @@ These are the AI model families primarily used by **Playa** to assist with the d
 ## 📊 Contribution Overview
 
 <p align="center">
-  <img src="./assets/contribution.svg" alt="Cyrene ecosystem contribution overview" width="760" />
+  <img src="../assets/contribution.svg" alt="Cyrene ecosystem contribution overview" width="760" />
 </p>
 
 <p align="center">
