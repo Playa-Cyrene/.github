@@ -91,7 +91,7 @@ Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接�
 ## 📊 贡献概览
 
 <p align="center">
-  <img src="./assets/contribution.svg" alt="Cyrene 生态贡献统计" width="760" />
+  <img src="../../assets/contribution.svg" alt="Cyrene 生态贡献统计" width="760" />
 </p>
 
 <p align="center">
