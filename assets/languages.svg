@@ -17,17 +17,17 @@
   
       <text x="32" y="106" class="label">TypeScript</text>
       <rect x="165" y="90" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="90" width="392.69" height="16" rx="8" fill="#3178c6"/>
+      <rect x="165" y="90" width="392.54" height="16" rx="8" fill="#3178c6"/>
       <text x="700" y="106" text-anchor="end" class="value">77.0% · 8.82 MB</text>
       <text x="32" y="150" class="label">JavaScript</text>
       <rect x="165" y="134" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="134" width="53.20" height="16" rx="8" fill="#f1e05a"/>
-      <text x="700" y="150" text-anchor="end" class="value">10.4% · 1.19 MB</text>
+      <rect x="165" y="134" width="53.39" height="16" rx="8" fill="#f1e05a"/>
+      <text x="700" y="150" text-anchor="end" class="value">10.5% · 1.20 MB</text>
       <text x="32" y="194" class="label">CSS</text>
       <rect x="165" y="178" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="178" width="25.15" height="16" rx="8" fill="#563d7c"/>
+      <rect x="165" y="178" width="25.14" height="16" rx="8" fill="#563d7c"/>
       <text x="700" y="194" text-anchor="end" class="value">4.93% · 578.23 KB</text>
 
   <line x1="32" y1="194" x2="728" y2="194" stroke="#21262d"/>
-  <text x="32" y="212" class="footer">Scanned: 5 repos with detected code · 2026-09-29 08:43:07 UTC</text>
+  <text x="32" y="212" class="footer">Scanned: 5 repos with detected code · 2026-09-29 08:43:41 UTC</text>
 </svg>
