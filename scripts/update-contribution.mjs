@@ -296,7 +296,7 @@ const languageTotal = [...languageAggregated.values()].reduce(
 
 const topLanguages = [...languageAggregated.entries()]
   .sort((a, b) => b[1] - a[1])
-  .slice(0, 3);
+  .slice(0, 4);
 
 const langBarX = 165;
 const langBarWidth = 510;
@@ -327,7 +327,7 @@ const langBars = langRows
   })
   .join("");
 
-const langSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220" role="img" aria-labelledby="title desc">
+const langSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="760" height="262" viewBox="0 0 760 262" role="img" aria-labelledby="title desc">
   <title id="title">Cyrene ecosystem top languages</title>
   <desc id="desc">Aggregated language bytes across public repositories in the Playa-Cyrene organization.</desc>
   <style>
@@ -338,17 +338,17 @@ const langSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220
     .footer { font: 400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #8b949e; }
   </style>
 
-  <rect x="1" y="1" width="758" height="218" rx="12" fill="#0d1118" stroke="#30363d"/>
+  <rect x="1" y="1" width="758" height="260" rx="12" fill="#0d1118" stroke="#30363d"/>
 
   <text x="32" y="40" class="title">Cyrene Ecosystem · Top Languages</text>
   <text x="32" y="62" class="subtitle">${xml(
-    `${orgRepos.length} public repositories · aggregated bytes · top 3`
+    `${orgRepos.length} public repositories · aggregated bytes · top 4`
   )}</text>
 
   ${langBars}
 
-  <line x1="32" y1="194" x2="728" y2="194" stroke="#21262d"/>
-  <text x="32" y="212" class="footer">${xml(`Scanned: ${languageRepoCount} repos with detected code · ${updated}`)}</text>
+  <line x1="32" y1="236" x2="728" y2="236" stroke="#21262d"/>
+  <text x="32" y="254" class="footer">${xml(`Scanned: ${languageRepoCount} repos with detected code · ${updated}`)}</text>
 </svg>
 `;
 
