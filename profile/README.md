@@ -10,62 +10,62 @@
 </pre>
 
 <p>
-  <strong>English</strong> · <a href="./README.zh-CN.md">中文</a>
+  <a href="./README.en.md">English</a> · <strong>中文</strong>
 </p>
 
-### Agent · Applications · Ecosystem
+### Agent · 配套应用 · 生态
 
-**The home of Cyrene.**
+**Cyrene 的项目之家。**
 
-Cyrene-Agent and everything built around Cyrene.
+Cyrene-Agent，以及围绕 Cyrene 构建的一切。
 
 </div>
 
 ---
 
-## 🌸 About Cyrene
+## 🌸 关于 Cyrene
 
-**Playa-Cyrene** is the home of the **Cyrene ecosystem**.
+**Playa-Cyrene** 是整个 **Cyrene 生态** 的 GitHub 项目集合与维护主页。
 
-At its center is **Cyrene-Agent**, together with companion applications, plugins, tools, integrations, and related projects built around Cyrene.
+项目以 **Cyrene-Agent** 为核心，并围绕 Cyrene 持续维护配套应用、插件、工具、集成与其他相关项目。
 
-Cyrene is independently created and primarily maintained by **Playa**, with contributions from the community.
+Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接受并感谢来自社区的贡献。
 
-**CyreneBot** is the bot account used for project automation and related tasks.
+**CyreneBot** 是用于项目自动化及相关任务的机器人账号。
 
-> **One ecosystem. One focus: Cyrene.**
+> **一个生态，一个重心：Cyrene。**
 
 ---
 
-## ✨ Projects
+## ✨ 项目
 
 ### 🌸 [Cyrene-Agent](https://github.com/Playa-Cyrene/Cyrene-Agent)
 
-**The heart of the Cyrene ecosystem.**
+**Cyrene 生态的核心。**
 
-A Windows Live2D AI desktop companion centered around Cyrene (昔涟), combining conversational AI, long-term memory, agentic tool use, voice interaction, plugins, and multi-platform integrations.
+以 Cyrene（昔涟）为核心角色的 Windows Live2D AI 桌面伴侣，整合角色化对话、长期记忆、Agent 工具调用、语音交互、插件系统与多平台接入等能力。
 
 [![Cyrene-Agent](https://img.shields.io/badge/Cyrene--Agent-Core_Project-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Playa-Cyrene/Cyrene-Agent)
 
 ### 🧩 [Cyrene-Plugins](https://github.com/Playa-Cyrene/Cyrene-Plugins)
 
-**The official plugin ecosystem for Cyrene.**
+**Cyrene 的官方插件生态。**
 
-A collection and distribution hub for Cyrene plugins, examples, community extensions, and integrations built on the Cyrene plugin SDK.
+用于收录、审核与分发 Cyrene 插件，同时提供插件示例、社区扩展及基于 Cyrene Plugin SDK 构建的各类集成。
 
 [![Cyrene-Plugins](https://img.shields.io/badge/Cyrene--Plugins-Plugin_Ecosystem-8a2be2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Playa-Cyrene/Cyrene-Plugins)
 
 ### 📝 [Cyrene-Note](https://github.com/Playa-Cyrene/Cyrene-Note)
 
-**A local knowledge companion built for Cyrene.**
+**为 Cyrene 打造的本地知识与笔记配套应用。**
 
-A local Markdown note-taking application designed around Cyrene-Agent's Learn mode and shared Vault workflow.
+围绕 Cyrene-Agent 的 Learn 模式与共享 Vault 工作流设计的本地 Markdown 笔记软件。
 
 [![Cyrene-Note](https://img.shields.io/badge/Cyrene--Note-Learn_Companion-20b2aa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Playa-Cyrene/Cyrene-Note)
 
 ---
 
-## 🛠️ Built With
+## 🛠️ 主要技术栈
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -74,55 +74,45 @@ A local Markdown note-taking application designed around Cyrene-Agent's Learn mo
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 
-These technologies make up the primary engineering stack used across the Cyrene ecosystem.
+以上技术构成了目前 Cyrene 生态的主要工程技术栈。
 
-### 🤖 AI-Assisted Development
+### 🤖 AI 辅助开发
 
 ![GPT](https://img.shields.io/badge/GPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-Zhipu_AI-315EFB?style=for-the-badge)
 ![MiniMax](https://img.shields.io/badge/MiniMax-AI-FF6B35?style=for-the-badge)
 
-These are the AI model families primarily used by **Playa** to assist with the development, review, debugging, and iteration of the Cyrene ecosystem.
+这些是 **Playa** 在 Cyrene 生态开发过程中主要用于辅助研发、代码审查、调试与迭代的 AI 模型家族。
 
-> This section describes the models used during **development**. It does **not** represent or limit the AI models and providers supported by Cyrene itself.
-
----
-
-## 📊 Contribution Overview
-
-<p align="center">
-  <img src="../assets/contribution.svg" alt="Cyrene ecosystem contribution overview" width="760" />
-</p>
-
-<p align="center">
-  <sub>Aggregated from Cyrene-Agent · Cyrene-Plugins · Cyrene-Note. Updated automatically.</sub>
-</p>
+> 本节描述的是 **开发过程中使用的辅助模型**，并不代表、更不限制 Cyrene 本身所支持的 AI 模型与服务商范围。
 
 ---
 
-## 👤 Maintained By
+## 📊 贡献概览
+
+<p align="center">
+  <img src="../assets/contribution.svg" alt="Cyrene 生态贡献统计" width="760" />
+</p>
+
+<p align="center">
+  <sub>统计范围：Cyrene-Agent · Cyrene-Plugins · Cyrene-Note，并由自动化任务持续更新。</sub>
+</p>
+
+---
+
+## 👤 维护者
 
 ![Playa](https://img.shields.io/badge/Creator_&_Maintainer-Playa-f97316?style=for-the-badge)
 ![CyreneBot](https://img.shields.io/badge/Automation-CyreneBot-6366f1?style=for-the-badge)
 
-**Playa** — creator and primary maintainer of Cyrene.  
-**CyreneBot** — automation and bot account for the Cyrene ecosystem.
+**Playa** — Cyrene 的创作者与主要维护者。  
+**CyreneBot** — 服务于 Cyrene 生态的自动化与机器人账号。
 
-Community contributions are welcome and form an important part of the Cyrene ecosystem.
+欢迎社区参与贡献，尤其是 Cyrene 的插件生态也离不开社区开发者的参与。
 
 ---
 
-## ⚠️ Disclaimer & Copyright
-
-Playa-Cyrene and its related projects are **unofficial fan projects** created out of personal interest and enthusiasm.
-
-**Cyrene (昔涟)**, including the character setting, character imagery, artwork, and related intellectual property, belongs to **HoYoverse / miHoYo (米哈游)** and their respective rights holders.
-
-Playa-Cyrene is **not officially affiliated with, endorsed by, or sponsored by HoYoverse / miHoYo**.
-
-Open-source licenses used by repositories in this organization apply only to the original source code and other eligible original works of those projects. They do not grant rights to HoYoverse / miHoYo characters, artwork, trademarks, or other third-party intellectual property.
-
-### 免责声明
+## ⚠️ 免责声明与版权说明
 
 Playa-Cyrene 及其相关项目均为基于个人兴趣与同人爱好开发的 **非官方同人项目**。
 
@@ -136,7 +126,7 @@ Playa-Cyrene 及其相关项目均为基于个人兴趣与同人爱好开发的 
 
 <div align="center">
 
-### 📧 Copyright / Rights Contact
+### 📧 版权 / 权利问题联系邮箱
 
 **[ky2569ly@gmail.com](mailto:ky2569ly@gmail.com)**
 
@@ -146,7 +136,7 @@ Playa-Cyrene 及其相关项目均为基于个人兴趣与同人爱好开发的 
 
 <div align="center">
 
-**Built around Cyrene, maintained with care.**
+**围绕 Cyrene 构建，也认真维护 Cyrene。**
 
 <sub>Playa-Cyrene</sub>
 
