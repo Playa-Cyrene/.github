@@ -13,6 +13,10 @@
   <a href="./README.en.md">English</a> · <strong>中文</strong>
 </p>
 
+<p>
+  <a href="https://playaagentcyrene.online/"><img src="https://img.shields.io/badge/Website-playaagentcyrene.online-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" /></a>
+</p>
+
 ### Agent · 配套应用 · 生态
 
 **Cyrene 的项目之家。**
@@ -62,6 +66,14 @@ Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接�
 围绕 Cyrene-Agent 的 Learn 模式与共享 Vault 工作流设计的本地 Markdown 笔记软件。
 
 [![Cyrene-Note](https://img.shields.io/badge/Cyrene--Note-Learn_Companion-20b2aa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Playa-Cyrene/Cyrene-Note)
+
+### 🌍 [Cyrene-Web](https://github.com/Playa-Cyrene/Cyrene-Web)
+
+**Cyrene 的官方网站。**
+
+官方站点 [playaagentcyrene.online](https://playaagentcyrene.online/) 的源代码仓库，承担产品介绍、文档展示与发布信息等职能。
+
+[![Cyrene-Web](https://img.shields.io/badge/Cyrene--Web-Official_Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Playa-Cyrene/Cyrene-Web)
 
 ---
 

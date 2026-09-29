@@ -13,6 +13,10 @@
   <strong>English</strong> · <a href="./README.md">中文</a>
 </p>
 
+<p>
+  <a href="https://playaagentcyrene.online/"><img src="https://img.shields.io/badge/Website-playaagentcyrene.online-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" /></a>
+</p>
+
 ### Agent · Applications · Ecosystem
 
 **The home of Cyrene.**
@@ -62,6 +66,14 @@ A collection and distribution hub for Cyrene plugins, examples, community extens
 A local Markdown note-taking application designed around Cyrene-Agent's Learn mode and shared Vault workflow.
 
 [![Cyrene-Note](https://img.shields.io/badge/Cyrene--Note-Learn_Companion-20b2aa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Playa-Cyrene/Cyrene-Note)
+
+### 🌍 [Cyrene-Web](https://github.com/Playa-Cyrene/Cyrene-Web)
+
+**The official website of Cyrene.**
+
+The source repository for the official site [playaagentcyrene.online](https://playaagentcyrene.online/), covering product introduction, documentation, and release information.
+
+[![Cyrene-Web](https://img.shields.io/badge/Cyrene--Web-Official_Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Playa-Cyrene/Cyrene-Web)
 
 ---
 
