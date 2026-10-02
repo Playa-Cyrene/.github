@@ -17,21 +17,21 @@
   
       <text x="32" y="106" class="label">TypeScript</text>
       <rect x="165" y="90" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="90" width="386.34" height="16" rx="8" fill="#3178c6"/>
-      <text x="700" y="106" text-anchor="end" class="value">75.8% · 8.88 MB</text>
+      <rect x="165" y="90" width="388.18" height="16" rx="8" fill="#3178c6"/>
+      <text x="700" y="106" text-anchor="end" class="value">76.1% · 9.14 MB</text>
       <text x="32" y="150" class="label">JavaScript</text>
       <rect x="165" y="134" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="134" width="60.80" height="16" rx="8" fill="#f1e05a"/>
-      <text x="700" y="150" text-anchor="end" class="value">11.9% · 1.40 MB</text>
+      <rect x="165" y="134" width="59.32" height="16" rx="8" fill="#f1e05a"/>
+      <text x="700" y="150" text-anchor="end" class="value">11.6% · 1.40 MB</text>
       <text x="32" y="194" class="label">CSS</text>
       <rect x="165" y="178" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="178" width="24.64" height="16" rx="8" fill="#563d7c"/>
-      <text x="700" y="194" text-anchor="end" class="value">4.83% · 579.68 KB</text>
+      <rect x="165" y="178" width="25.20" height="16" rx="8" fill="#563d7c"/>
+      <text x="700" y="194" text-anchor="end" class="value">4.94% · 607.84 KB</text>
       <text x="32" y="238" class="label">Rust</text>
       <rect x="165" y="222" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="222" width="22.57" height="16" rx="8" fill="#dea584"/>
-      <text x="700" y="238" text-anchor="end" class="value">4.43% · 530.97 KB</text>
+      <rect x="165" y="222" width="22.01" height="16" rx="8" fill="#dea584"/>
+      <text x="700" y="238" text-anchor="end" class="value">4.32% · 530.97 KB</text>
 
   <line x1="32" y1="236" x2="728" y2="236" stroke="#21262d"/>
-  <text x="32" y="254" class="footer">Scanned: 5 repos with detected code · 2026-10-01 10:09:49 UTC</text>
+  <text x="32" y="254" class="footer">Scanned: 5 repos with detected code · 2026-10-02 09:47:35 UTC</text>
 </svg>
