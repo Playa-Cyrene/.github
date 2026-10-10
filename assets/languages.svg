@@ -17,21 +17,21 @@
   
       <text x="32" y="106" class="label">TypeScript</text>
       <rect x="165" y="90" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="90" width="392.74" height="16" rx="8" fill="#3178c6"/>
-      <text x="700" y="106" text-anchor="end" class="value">77.0% · 9.67 MB</text>
+      <rect x="165" y="90" width="392.90" height="16" rx="8" fill="#3178c6"/>
+      <text x="700" y="106" text-anchor="end" class="value">77.0% · 9.69 MB</text>
       <text x="32" y="150" class="label">JavaScript</text>
       <rect x="165" y="134" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="134" width="57.60" height="16" rx="8" fill="#f1e05a"/>
+      <rect x="165" y="134" width="57.52" height="16" rx="8" fill="#f1e05a"/>
       <text x="700" y="150" text-anchor="end" class="value">11.3% · 1.42 MB</text>
       <text x="32" y="194" class="label">CSS</text>
       <rect x="165" y="178" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="178" width="23.98" height="16" rx="8" fill="#563d7c"/>
+      <rect x="165" y="178" width="23.95" height="16" rx="8" fill="#563d7c"/>
       <text x="700" y="194" text-anchor="end" class="value">4.70% · 604.78 KB</text>
       <text x="32" y="238" class="label">Rust</text>
       <rect x="165" y="222" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="222" width="21.05" height="16" rx="8" fill="#dea584"/>
-      <text x="700" y="238" text-anchor="end" class="value">4.13% · 530.97 KB</text>
+      <rect x="165" y="222" width="21.03" height="16" rx="8" fill="#dea584"/>
+      <text x="700" y="238" text-anchor="end" class="value">4.12% · 530.97 KB</text>
 
   <line x1="32" y1="236" x2="728" y2="236" stroke="#21262d"/>
-  <text x="32" y="254" class="footer">Scanned: 5 repos with detected code · 2026-10-09 10:35:24 UTC</text>
+  <text x="32" y="254" class="footer">Scanned: 5 repos with detected code · 2026-10-10 09:52:02 UTC</text>
 </svg>
