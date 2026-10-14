@@ -119,13 +119,15 @@ Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接�
 
 ---
 
-## 👤 维护者
+## 👤 维护者与成员
 
 ![Playa](https://img.shields.io/badge/Creator_&_Maintainer-Playa-f97316?style=for-the-badge)
 ![CyreneBot](https://img.shields.io/badge/Automation-CyreneBot-6366f1?style=for-the-badge)
 
 **Playa** — Cyrene 的创作者与主要维护者。  
 **CyreneBot** — 服务于 Cyrene 生态的自动化与机器人账号。
+
+**[LZhWi](https://github.com/LZhWi)** — Playa-Cyrene 组织成员。
 
 欢迎社区参与贡献，尤其是 Cyrene 的插件生态也离不开社区开发者的参与。
 
