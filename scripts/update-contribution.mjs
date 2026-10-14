@@ -20,6 +20,10 @@ const CYRENE_BOT_LOGINS = new Set(
   parseLogins(process.env.CYRENE_BOT_LOGINS, "CyreneBot")
 );
 
+const LZHWI_LOGINS = new Set(
+  parseLogins(process.env.LZHWI_LOGINS, "LZhWi")
+);
+
 const token = process.env.GITHUB_TOKEN || "";
 
 const headers = {
@@ -106,6 +110,7 @@ for (const repo of REPOSITORIES) {
 
 const totals = {
   playa: 0,
+  lzhwi: 0,
   community: 0,
   cyreneBot: 0,
 };
@@ -123,6 +128,11 @@ for (const [key, contributor] of aggregated) {
     continue;
   }
 
+  if (LZHWI_LOGINS.has(key)) {
+    totals.lzhwi += contributor.contributions;
+    continue;
+  }
+
   // Generic automation accounts such as Dependabot are intentionally excluded.
   if (isGenericBot(key)) continue;
 
@@ -132,8 +142,9 @@ for (const [key, contributor] of aggregated) {
 
 community.sort((a, b) => b.contributions - a.contributions);
 
-const total = totals.playa + totals.community + totals.cyreneBot;
+const total = totals.playa + totals.lzhwi + totals.community + totals.cyreneBot;
 const playaPct = pct(totals.playa, total);
+const lzhwiPct = pct(totals.lzhwi, total);
 const communityPct = pct(totals.community, total);
 const botPct = pct(totals.cyreneBot, total);
 
@@ -148,17 +159,24 @@ const rows = [
     color: "#f97316",
   },
   {
+    label: "LZhWi",
+    value: totals.lzhwi,
+    percentage: lzhwiPct,
+    y: 146,
+    color: "#38bdf8",
+  },
+  {
     label: "Community",
     value: totals.community,
     percentage: communityPct,
-    y: 146,
+    y: 190,
     color: "#3fb950",
   },
   {
     label: "CyreneBot",
     value: totals.cyreneBot,
     percentage: botPct,
-    y: 190,
+    y: 234,
     color: "#8b5cf6",
   },
 ];
@@ -192,7 +210,7 @@ const topCommunity =
 
 const updated = new Date().toISOString().replace("T", " ").replace(/\.\d+Z$/, " UTC");
 
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270" role="img" aria-labelledby="title desc">
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="760" height="336" viewBox="0 0 760 336" role="img" aria-labelledby="title desc">
   <title id="title">Cyrene ecosystem contribution overview</title>
   <desc id="desc">Aggregated default-branch commit contributions across Cyrene-Agent, Cyrene-Plugins, and Cyrene-Note.</desc>
   <style>
@@ -203,16 +221,16 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" vi
     .footer { font: 400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #8b949e; }
   </style>
 
-  <rect x="1" y="1" width="758" height="268" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="758" height="334" rx="12" fill="#0d1117" stroke="#30363d"/>
 
   <text x="32" y="40" class="title">Cyrene Ecosystem Contributions</text>
   <text x="32" y="62" class="subtitle">Cyrene-Agent · Cyrene-Plugins · Cyrene-Note · default-branch commits</text>
 
   ${bars}
 
-  <line x1="32" y1="220" x2="728" y2="220" stroke="#21262d"/>
-  <text x="32" y="242" class="footer">Top community: ${xml(topCommunity)}</text>
-  <text x="728" y="242" text-anchor="end" class="footer">Total: ${total} · ${xml(updated)}</text>
+  <line x1="32" y1="264" x2="728" y2="264" stroke="#21262d"/>
+  <text x="32" y="286" class="footer">Top community: ${xml(topCommunity)}</text>
+  <text x="32" y="308" class="footer">Total: ${total} · ${xml(updated)}</text>
 </svg>
 `;
 
