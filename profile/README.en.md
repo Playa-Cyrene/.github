@@ -119,13 +119,15 @@ These are the AI model families primarily used by **Playa** to assist with the d
 
 ---
 
-## 👤 Maintained By
+## 👤 Maintainers & Members
 
 ![Playa](https://img.shields.io/badge/Creator_&_Maintainer-Playa-f97316?style=for-the-badge)
 ![CyreneBot](https://img.shields.io/badge/Automation-CyreneBot-6366f1?style=for-the-badge)
 
 **Playa** — creator and primary maintainer of Cyrene.  
 **CyreneBot** — automation and bot account for the Cyrene ecosystem.
+
+**[LZhWi](https://github.com/LZhWi)** — member of the Playa-Cyrene organization.
 
 Community contributions are welcome and form an important part of the Cyrene ecosystem.
 
