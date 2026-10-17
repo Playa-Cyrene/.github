@@ -132,6 +132,8 @@ Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接�
 
 **[ahwhshen](https://github.com/ahwhshen)** — Playa-Cyrene 组织成员。
 
+**[Tianzzi](https://github.com/Unknownuserfrommars)** — Playa-Cyrene 组织成员。
+
 欢迎社区参与贡献，尤其是 Cyrene 的插件生态也离不开社区开发者的参与。
 
 ---
