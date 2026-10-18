@@ -17,22 +17,22 @@
   
       <text x="32" y="106" class="label">Playa</text>
       <rect x="165" y="90" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="90" width="462.89" height="16" rx="8" fill="#f97316"/>
-      <text x="700" y="106" text-anchor="end" class="value">90.8% · 1582</text>
+      <rect x="165" y="90" width="457.70" height="16" rx="8" fill="#f97316"/>
+      <text x="700" y="106" text-anchor="end" class="value">89.7% · 1584</text>
       <text x="32" y="150" class="label">LZhWi</text>
       <rect x="165" y="134" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="134" width="16.97" height="16" rx="8" fill="#38bdf8"/>
-      <text x="700" y="150" text-anchor="end" class="value">3.33% · 58</text>
+      <rect x="165" y="134" width="19.07" height="16" rx="8" fill="#38bdf8"/>
+      <text x="700" y="150" text-anchor="end" class="value">3.74% · 66</text>
       <text x="32" y="194" class="label">Community</text>
       <rect x="165" y="178" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="178" width="30.14" height="16" rx="8" fill="#3fb950"/>
-      <text x="700" y="194" text-anchor="end" class="value">5.91% · 103</text>
+      <rect x="165" y="178" width="33.23" height="16" rx="8" fill="#3fb950"/>
+      <text x="700" y="194" text-anchor="end" class="value">6.52% · 115</text>
       <text x="32" y="238" class="label">CyreneBot</text>
       <rect x="165" y="222" width="510" height="16" rx="8" fill="#21262d"/>
       <rect x="165" y="222" width="0.00" height="16" rx="8" fill="#8b5cf6"/>
       <text x="700" y="238" text-anchor="end" class="value">0.00% · 0</text>
 
   <line x1="32" y1="264" x2="728" y2="264" stroke="#21262d"/>
-  <text x="32" y="286" class="footer">Top community: @lll69 · @Unknownuserfrommars · @yuxingyuzhong · @ahwhshen · @citie114514</text>
-  <text x="32" y="308" class="footer">Total: 1743 · 2026-10-17 07:49:12 UTC</text>
+  <text x="32" y="286" class="footer">Top community: @Unknownuserfrommars · @lll69 · @yuxingyuzhong · @ahwhshen · @citie114514</text>
+  <text x="32" y="308" class="footer">Total: 1765 · 2026-10-18 08:03:16 UTC</text>
 </svg>
