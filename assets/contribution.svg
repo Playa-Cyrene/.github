@@ -17,22 +17,22 @@
   
       <text x="32" y="106" class="label">Playa</text>
       <rect x="165" y="90" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="90" width="454.32" height="16" rx="8" fill="#f97316"/>
-      <text x="700" y="106" text-anchor="end" class="value">89.1% · 1591</text>
+      <rect x="165" y="90" width="451.35" height="16" rx="8" fill="#f97316"/>
+      <text x="700" y="106" text-anchor="end" class="value">88.5% · 1593</text>
       <text x="32" y="150" class="label">LZhWi</text>
       <rect x="165" y="134" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="134" width="21.13" height="16" rx="8" fill="#38bdf8"/>
-      <text x="700" y="150" text-anchor="end" class="value">4.14% · 74</text>
+      <rect x="165" y="134" width="22.38" height="16" rx="8" fill="#38bdf8"/>
+      <text x="700" y="150" text-anchor="end" class="value">4.39% · 79</text>
       <text x="32" y="194" class="label">Community</text>
       <rect x="165" y="178" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="178" width="34.55" height="16" rx="8" fill="#3fb950"/>
-      <text x="700" y="194" text-anchor="end" class="value">6.77% · 121</text>
+      <rect x="165" y="178" width="36.27" height="16" rx="8" fill="#3fb950"/>
+      <text x="700" y="194" text-anchor="end" class="value">7.11% · 128</text>
       <text x="32" y="238" class="label">CyreneBot</text>
       <rect x="165" y="222" width="510" height="16" rx="8" fill="#21262d"/>
       <rect x="165" y="222" width="0.00" height="16" rx="8" fill="#8b5cf6"/>
       <text x="700" y="238" text-anchor="end" class="value">0.00% · 0</text>
 
   <line x1="32" y1="264" x2="728" y2="264" stroke="#21262d"/>
-  <text x="32" y="286" class="footer">Top community: @Unknownuserfrommars · @lll69 · @ActorF · @yuxingyuzhong · @ahwhshen</text>
-  <text x="32" y="308" class="footer">Total: 1786 · 2026-10-19 08:54:18 UTC</text>
+  <text x="32" y="286" class="footer">Top community: @Unknownuserfrommars · @lll69 · @ahwhshen · @ActorF · @yuxingyuzhong</text>
+  <text x="32" y="308" class="footer">Total: 1800 · 2026-10-20 08:33:46 UTC</text>
 </svg>
