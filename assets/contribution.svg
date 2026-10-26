@@ -17,16 +17,16 @@
   
       <text x="32" y="106" class="label">Playa</text>
       <rect x="165" y="90" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="90" width="437.10" height="16" rx="8" fill="#f97316"/>
-      <text x="700" y="106" text-anchor="end" class="value">85.7% · 1595</text>
+      <rect x="165" y="90" width="436.52" height="16" rx="8" fill="#f97316"/>
+      <text x="700" y="106" text-anchor="end" class="value">85.6% · 1598</text>
       <text x="32" y="150" class="label">LZhWi</text>
       <rect x="165" y="134" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="134" width="30.15" height="16" rx="8" fill="#38bdf8"/>
-      <text x="700" y="150" text-anchor="end" class="value">5.91% · 110</text>
+      <rect x="165" y="134" width="30.87" height="16" rx="8" fill="#38bdf8"/>
+      <text x="700" y="150" text-anchor="end" class="value">6.05% · 113</text>
       <text x="32" y="194" class="label">Community</text>
       <rect x="165" y="178" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="178" width="42.75" height="16" rx="8" fill="#3fb950"/>
-      <text x="700" y="194" text-anchor="end" class="value">8.38% · 156</text>
+      <rect x="165" y="178" width="42.61" height="16" rx="8" fill="#3fb950"/>
+      <text x="700" y="194" text-anchor="end" class="value">8.36% · 156</text>
       <text x="32" y="238" class="label">CyreneBot</text>
       <rect x="165" y="222" width="510" height="16" rx="8" fill="#21262d"/>
       <rect x="165" y="222" width="0.00" height="16" rx="8" fill="#8b5cf6"/>
@@ -34,5 +34,5 @@
 
   <line x1="32" y1="264" x2="728" y2="264" stroke="#21262d"/>
   <text x="32" y="286" class="footer">Top community: @Unknownuserfrommars · @lll69 · @ahwhshen · @ActorF · @yuxingyuzhong</text>
-  <text x="32" y="308" class="footer">Total: 1861 · 2026-10-25 08:26:22 UTC</text>
+  <text x="32" y="308" class="footer">Total: 1867 · 2026-10-26 08:57:06 UTC</text>
 </svg>
