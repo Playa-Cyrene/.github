@@ -14,8 +14,10 @@
 </p>
 
 <p>
-  🌐 <strong>官方网站 / Official Website：</strong><br />
-  <a href="https://playaagentcyrene.online/">https://playaagentcyrene.online/</a>
+ 
+  <a href="https://playaagentcyrene.online/">
+    <img src="https://img.shields.io/badge/官方网站-PLAYAAGENTCYRENE.ONLINE-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" />
+  </a>
 </p>
 
 ### Agent · 配套应用 · 生态
