@@ -89,10 +89,11 @@ Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接�
 
 以上技术构成了目前 Cyrene 生态的主要工程技术栈。
 
-下面是基于 GitHub API 实际统计出的组织级语言字节占比 Top 3（每整库或归档仓库不计入）：
+下面是基于 GitHub API 实际统计出的组织级语言字节占比 Top 4（每整库或归档仓库不计入）：
 
 <p align="center">
-  <img src="../assets/languages.svg" alt="Cyrene 生态语言占比 Top 4" width="760" />
+  <img src="../assets/languages.svg" alt="Cyrene 生态语言占比 Top 4"
+       width="760" height="480" />
 </p>
 
 ### 🤖 AI 辅助开发
