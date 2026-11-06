@@ -17,22 +17,22 @@
   
       <text x="32" y="106" class="label">Playa</text>
       <rect x="165" y="90" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="90" width="420.45" height="16" rx="8" fill="#f97316"/>
-      <text x="700" y="106" text-anchor="end" class="value">82.4% · 1601</text>
+      <rect x="165" y="90" width="418.51" height="16" rx="8" fill="#f97316"/>
+      <text x="700" y="106" text-anchor="end" class="value">82.1% · 1601</text>
       <text x="32" y="150" class="label">LZhWi</text>
       <rect x="165" y="134" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="134" width="38.87" height="16" rx="8" fill="#38bdf8"/>
-      <text x="700" y="150" text-anchor="end" class="value">7.62% · 148</text>
+      <rect x="165" y="134" width="38.69" height="16" rx="8" fill="#38bdf8"/>
+      <text x="700" y="150" text-anchor="end" class="value">7.59% · 148</text>
       <text x="32" y="194" class="label">Community</text>
       <rect x="165" y="178" width="510" height="16" rx="8" fill="#21262d"/>
-      <rect x="165" y="178" width="50.68" height="16" rx="8" fill="#3fb950"/>
-      <text x="700" y="194" text-anchor="end" class="value">9.94% · 193</text>
+      <rect x="165" y="178" width="52.80" height="16" rx="8" fill="#3fb950"/>
+      <text x="700" y="194" text-anchor="end" class="value">10.4% · 202</text>
       <text x="32" y="238" class="label">CyreneBot</text>
       <rect x="165" y="222" width="510" height="16" rx="8" fill="#21262d"/>
       <rect x="165" y="222" width="0.00" height="16" rx="8" fill="#8b5cf6"/>
       <text x="700" y="238" text-anchor="end" class="value">0.00% · 0</text>
 
   <line x1="32" y1="264" x2="728" y2="264" stroke="#21262d"/>
-  <text x="32" y="286" class="footer">Top community: @Unknownuserfrommars · @lll69 · @ahwhshen · @ActorF · @yuxingyuzhong</text>
-  <text x="32" y="308" class="footer">Total: 1942 · 2026-11-05 10:57:24 UTC</text>
+  <text x="32" y="286" class="footer">Top community: @Unknownuserfrommars · @ahwhshen · @lll69 · @ActorF · @yuxingyuzhong</text>
+  <text x="32" y="308" class="footer">Total: 1951 · 2026-11-06 10:54:28 UTC</text>
 </svg>
