@@ -36,7 +36,7 @@ Cyrene-Agent and everything built around Cyrene.
 
 At its center is **Cyrene-Agent**, together with companion applications, plugins, tools, integrations, and related projects built around Cyrene.
 
-Cyrene is independently created and primarily maintained by **Playa**, with contributions from the community.
+Cyrene is independently created by **Playa** and maintained by **members in Playa-Cyrene**, also with contributions from the community.
 
 **CyreneBot** is the bot account used for project automation and related tasks.
 
@@ -100,10 +100,12 @@ Below is the Top 3 of language byte share aggregated from the GitHub API across 
 ### 🤖 AI-Assisted Development
 
 ![GPT](https://img.shields.io/badge/GPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-f97316?style=for-the-badge&logo=openai&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-Alibaba-38bdf8?style=for-the-badge&logo=openai&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-Zhipu_AI-315EFB?style=for-the-badge)
 ![MiniMax](https://img.shields.io/badge/MiniMax-AI-FF6B35?style=for-the-badge)
 
-These are the AI model families primarily used by **Playa** to assist with the development, review, debugging, and iteration of the Cyrene ecosystem.
+These are the AI model families primarily used to assist with the development, review, debugging, and iteration of the Cyrene ecosystem.
 
 > This section describes the models used during **development**. It does **not** represent or limit the AI models and providers supported by Cyrene itself.
 
@@ -124,13 +126,20 @@ These are the AI model families primarily used by **Playa** to assist with the d
 ## 👤 Maintainers & Members
 
 ![Playa](https://img.shields.io/badge/Creator_&_Maintainer-Playa-f97316?style=for-the-badge)
+[![LZhWi](https://img.shields.io/badge/Maintainer-LZhWi-f97316?style=for-the-badge)](https://github.com/LZhWi)
+![ahwhshen](https://img.shields.io/badge/Member-ahwhshen-38bdf8?style=for-the-badge)
+![Tianzzi](https://img.shields.io/badge/Member-Tianzzi-38bdf8?style=for-the-badge)
 ![CyreneBot](https://img.shields.io/badge/Automation-CyreneBot-6366f1?style=for-the-badge)
-[![LZhWi](https://img.shields.io/badge/Member-LZhWi-38bdf8?style=for-the-badge)](https://github.com/LZhWi)
 
-**Playa** — creator and primary maintainer of Cyrene.  
+**[Playa](https://github.com/Playa-0v0)** — creator and maintainer of Cyrene.  
+
+**[LZhWi](https://github.com/LZhWi)** — maintainer of Cyrene.
+
+**[ahwhshen](https://github.com/ahwhshen)** — member of the Playa-Cyrene organization.
+
+**[Tianzzi](https://github.com/Unknownuserfrommars)** — member of the Playa-Cyrene organization.
+
 **CyreneBot** — automation and bot account for the Cyrene ecosystem.
-
-**[LZhWi](https://github.com/LZhWi)** — member of the Playa-Cyrene organization.
 
 Community contributions are welcome and form an important part of the Cyrene ecosystem.
 
