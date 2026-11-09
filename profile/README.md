@@ -36,7 +36,7 @@ Cyrene-Agent，以及围绕 Cyrene 构建的一切。
 
 项目以 **Cyrene-Agent** 为核心，并围绕 Cyrene 持续维护配套应用、插件、工具、集成与其他相关项目。
 
-Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接受并感谢来自社区的贡献。
+Cyrene 由 **Playa** 创作、**Playa-Cyrene 成员**共同维护，同时也接受并感谢来自社区的贡献。
 
 **CyreneBot** 是用于项目自动化及相关任务的机器人账号。
 
@@ -101,10 +101,12 @@ Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接�
 ### 🤖 AI 辅助开发
 
 ![GPT](https://img.shields.io/badge/GPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-f97316?style=for-the-badge&logo=openai&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-Alibaba-38bdf8?style=for-the-badge&logo=openai&logoColor=white)
 ![GLM](https://img.shields.io/badge/GLM-Zhipu_AI-315EFB?style=for-the-badge)
 ![MiniMax](https://img.shields.io/badge/MiniMax-AI-FF6B35?style=for-the-badge)
 
-这些是 **Playa** 在 Cyrene 生态开发过程中主要用于辅助研发、代码审查、调试与迭代的 AI 模型家族。
+这些是在 Cyrene 生态开发过程中主要用于辅助研发、代码审查、调试与迭代的 AI 模型家族。
 
 > 本节描述的是 **开发过程中使用的辅助模型**，并不代表、更不限制 Cyrene 本身所支持的 AI 模型与服务商范围。
 
@@ -125,17 +127,20 @@ Cyrene 由 **Playa** 独立创作并主要负责开发与维护，同时也接�
 ## 👤 维护者与成员
 
 ![Playa](https://img.shields.io/badge/Creator_&_Maintainer-Playa-f97316?style=for-the-badge)
+[![LZhWi](https://img.shields.io/badge/Maintainer-LZhWi-f97316?style=for-the-badge)](https://github.com/LZhWi)
+![ahwhshen](https://img.shields.io/badge/Member-ahwhshen-38bdf8?style=for-the-badge)
+![Tianzzi](https://img.shields.io/badge/Member-Tianzzi-38bdf8?style=for-the-badge)
 ![CyreneBot](https://img.shields.io/badge/Automation-CyreneBot-6366f1?style=for-the-badge)
-[![LZhWi](https://img.shields.io/badge/Member-LZhWi-38bdf8?style=for-the-badge)](https://github.com/LZhWi)
 
-**Playa** — Cyrene 的创作者与主要维护者。  
-**CyreneBot** — 服务于 Cyrene 生态的自动化与机器人账号。
+**[Playa](https://github.com/Playa-0v0)** — Cyrene 的创作者与维护者。  
 
-**[LZhWi](https://github.com/LZhWi)** — Playa-Cyrene 组织成员。
+**[LZhWi](https://github.com/LZhWi)** — Cyrene 的维护者。
 
 **[ahwhshen](https://github.com/ahwhshen)** — Playa-Cyrene 组织成员。
 
 **[Tianzzi](https://github.com/Unknownuserfrommars)** — Playa-Cyrene 组织成员。
+
+**CyreneBot** — 服务于 Cyrene 生态的自动化与机器人账号。
 
 欢迎社区参与贡献，尤其是 Cyrene 的插件生态也离不开社区开发者的参与。
 
